@@ -1,8 +1,0 @@
-default pickle file contains base info about classes
-BEFOREANNOUNCEMENTv1 includes enrollment data, but has only partial data for courses with more than one section
-BEFOREANNOUNCEMENTv2 contains enrollment data that should be fully correct, collected at 7:39pm on 3/26
-AFTERANNOUNCEMENT3-28 contains enrollment data from 4:45pm on 3/28
-AFTERANNOUNCEMENT3-30 contains data from 8:50pm on 3/30
-3-31 contains info from 6:30pm on 3-31
-stanfordclasslistAFTERANNOUNCEMENT04_02_01_12_25 contains info from 6:12pm on 4/01
-stanfordclasslistAFTERANNOUNCEMENT04_02_21_38_36.pkl contains info from 2:38pm on 4/02
